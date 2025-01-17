@@ -1,7 +1,7 @@
 7,# Angel.dev
 
 
-# 👋 Hola, soy Ángel Daniel Peñaloza Vallejo
+# 👋 Hola, soy Ángel Daniel 
 
 Soy un ingeniero en sistemas computacionales apasionado por el desarrollo de software, tecnologías web y soluciones innovadoras.
 
