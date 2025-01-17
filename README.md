@@ -12,10 +12,10 @@ Soy un ingeniero en sistemas computacionales apasionado por el desarrollo de sof
   Aplicación para organizar tareas, desarrollada con Vue.js y Firebase.
 
 ## 🚀 Tecnologías
-- **Lenguajes:** PHP, JavaScript, Python, SQL  
-- **Frameworks:** Laravel, Bootstrap, Vue.js  
+- **Lenguajes:** PHP, JavaScript, Python, SQL, Dart, C++ (alto rendimiento), Java (Android). 
+- **Frameworks:** Laravel (versiones 5 a 11), Bootstrap 5, Vue.js, Filament, Flutter.
 - **Bases de datos:** MySQL, Oracle  
-- **Otros:** APIs REST, Git, Scrum  
+- **Otros:** APIs REST (Google Maps, Stripe), WordPress (personalización de plugins), Postman, Git (GitHub, GitLab), Scrum, Docker (básico).
 
 ## 📫 Contacto
 - **Correo:** [angel.danielpv2002@gmail.com](mailto:angel.danielpv2002@gmail.com)  
