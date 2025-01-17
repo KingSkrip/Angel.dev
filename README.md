@@ -1,4 +1,4 @@
-# Angel.dev
+7,# Angel.dev
 
 
 # 👋 Hola, soy Ángel Daniel Peñaloza Vallejo
@@ -19,5 +19,5 @@ Soy un ingeniero en sistemas computacionales apasionado por el desarrollo de sof
 
 ## 📫 Contacto
 - **Correo:** [angel.danielpv2002@gmail.com](mailto:angel.danielpv2002@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/angel-daniel](https://linkedin.com/in/tu-usuario)
+- **LinkedIn:** [LinkedIn: Angel Daniel Peñaloza Vallejo](https://www.linkedin.com/in/angel-daniel-pe%C3%B1aloza-vallejo-406009323)
 
